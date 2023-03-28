@@ -6,9 +6,13 @@ This projects help us detect potoato disease when image of potato leave is given
 
 ## Python libraries used
 
-Tensorflow
+[Tensorflow](https://www.tensorflow.org/tutorials/images/classification)
 
-Matplotlib
+[Matplotlib](https://matplotlib.org/)
+
+[Numpy](https://numpy.org/)
+
+[OS](https://docs.python.org/3/library/os.html)
 
 ## Installation
 
