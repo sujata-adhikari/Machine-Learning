@@ -2,7 +2,7 @@
 
 A Machine learning Project to demonstrate image Classification.
 
-This projects help us detect potoato disease when image of potato leave is given.
+This project helps us detect potoato disease when image of potato leave is given as input.
 
 ## Python libraries used
 
